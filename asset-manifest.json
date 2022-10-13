@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/weather-app/static/js/app.408dff9d.chunk.js",
+    "app.js.map": "/weather-app/static/js/app.408dff9d.chunk.js.map",
+    "runtime~app.js": "/weather-app/static/js/runtime~app.e22a3d08.js",
+    "runtime~app.js.map": "/weather-app/static/js/runtime~app.e22a3d08.js.map",
+    "static/js/2.c7f34d9d.chunk.js": "/weather-app/static/js/2.c7f34d9d.chunk.js",
+    "static/js/2.c7f34d9d.chunk.js.map": "/weather-app/static/js/2.c7f34d9d.chunk.js.map",
+    "fonts/AntDesign.ttf": "/weather-app/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/weather-app/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/weather-app/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/weather-app/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/weather-app/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/weather-app/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/weather-app/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/weather-app/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/weather-app/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/weather-app/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/weather-app/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/weather-app/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/weather-app/favicon-16.png",
+    "favicon-32.png": "/weather-app/favicon-32.png",
+    "favicon.ico": "/weather-app/favicon.ico",
+    "index.html": "/weather-app/index.html",
+    "manifest.json": "/weather-app/manifest.json",
+    "serve.json": "/weather-app/serve.json",
+    "static/js/2.c7f34d9d.chunk.js.LICENSE.txt": "/weather-app/static/js/2.c7f34d9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.e22a3d08.js",
+    "static/js/2.c7f34d9d.chunk.js",
+    "static/js/app.408dff9d.chunk.js"
+  ]
+}
